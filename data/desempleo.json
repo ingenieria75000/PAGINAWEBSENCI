@@ -1,0 +1,11 @@
+[
+  { "ciudad": "Bogotá", "tasa": 11.2 },
+  { "ciudad": "Medellín", "tasa": 10.5 },
+  { "ciudad": "Cali", "tasa": 12.8 },
+  { "ciudad": "Barranquilla", "tasa": 9.3 },
+  { "ciudad": "Cartagena", "tasa": 10.1 },
+  { "ciudad": "Cúcuta", "tasa": 15.4 },
+  { "ciudad": "Bucaramanga", "tasa": 8.7 },
+  { "ciudad": "Pereira", "tasa": 9.9 },
+  { "ciudad": "Manizales", "tasa": 7.6 }
+]
